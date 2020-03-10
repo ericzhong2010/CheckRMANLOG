@@ -3,9 +3,13 @@
 ----
 
 @ Author: Eric.zhong
+
 @Contact: ericzhong2010@qq.com
+
 @Create Time: 2020/03/06
+
 @File: CheckRMANLOG.py
+
 @Info:  RMAN 备份日志检查与发送通知(邮件/微信)
 
 ----
@@ -114,5 +118,5 @@ A1:企业微信申请 => https://work.weixin.qq.com/
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191105214853400.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODYyMzk5NA==,size_16,color_FFFFFF,t_70)
 **AgentID 企业号中的应用id
 Secret 企业应用密钥**
-![image-20200310141528615](C:\Users\eric.zhong.G08\AppData\Roaming\Typora\typora-user-images\image-20200310141528615.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191105215019640.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODYyMzk5NA==,size_16,color_FFFFFF,t_70)
 
