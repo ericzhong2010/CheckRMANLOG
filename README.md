@@ -108,6 +108,19 @@ receivers = 收件人[多收件人以逗号分隔]
 
 
 
+#### 截图参考
+- RMAN备份失败
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200310143041596.png)
+- RMAN备份成功
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200310143252576.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODYyMzk5NA==,size_16,color_FFFFFF,t_70)
+
+- RMAN备份异常
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200310143327406.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODYyMzk5NA==,size_16,color_FFFFFF,t_70)
+- 微信效果
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200310143201456.png)
+
+
+
 #### 常见问题
 
 Q1:企业微信相关信息在哪里可以找到？
